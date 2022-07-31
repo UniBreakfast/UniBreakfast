@@ -1,7 +1,8 @@
-## [ALL MY REPOSITORIES](https://unibreakfast.github.io/)
+## [>>>  ALL MY REPOSITORIES  <<<](https://unibreakfast.github.io/)
 
+<br>
 <details>
-  <summary>Форматы, в которых я занимаюсь с учениками в веб-конференциях: <sub>...показать...</sub> </summary> <br>
+  <summary> <h3>Форматы, в которых я занимаюсь с учениками в веб-конференциях:</h3> <sub>...показать...</sub> </summary>
   
   <ul>
     <li>введение, советы по изучению, рекомендации материалов</li>
@@ -28,9 +29,8 @@
   </ul>
 
 </details>
-
 <details>
-  <summary>Formats in which I work with students in web conferences: <sub>...show...</sub> </summary> <br>
+  <summary><h3>Formats in which I work with students during remote desktop call lessons:</h3> <sub>...show...</sub> </summary>
   
   <ul>
     <li>introduction, study tips, material recommendations</li>
