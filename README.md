@@ -29,3 +29,31 @@
 
 </details>
 
+<details>
+  <summary>Formats in which I work with students in web conferences: <sub>...show...</sub> </summary> <br>
+  
+  <ul>
+    <li>introduction, study tips, material recommendations</li>
+    <li>answers to the questions the student came with</li>
+    <li>explanation of topics - singlular or sequential</li>
+    <li>solving algorithmic tasks (kata), inventing the right ones on the go</li>
+    <li>writing generic component proofs of concepts</li>
+    <li>writing test tasks given by employers</li>
+    <li>pair programming</li>
+    <li>walking through tutorials together</li>
+    <li>support in completing interactive learning sites</li>
+    <li>help with writing own projects</li>
+    <li>building site layouts from design, with hints and explanations</li>
+    <li>code review for projects done by students</li>
+    <li>help with work tasks</li>
+    <li>mock interviews (imitation of a real one)</li>
+    <li>assistance with qualification tests</li>
+    <li>going through video courses together</li>
+    <li>reading prewritten code, explaining everything I can</li>
+    <li>application design (architecture, data, interfaces)</li>
+    <li>writing casual games (snake, tetris, sapper, etc.)</li>
+    <li>group flipped class</li>
+    <li>live coding (I code in front of students with comments along the way)</li>
+  </ul>
+
+</details>
