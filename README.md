@@ -33,27 +33,27 @@
   <summary><h3>Formats in which I work with students during remote desktop call lessons:</h3> <sub>...show...</sub> </summary>
   
   <ul>
-    <li>introduction, study tips, material recommendations</li>
-    <li>answers to the questions the student came with</li>
-    <li>explanation of topics - singlular or sequential</li>
-    <li>solving algorithmic tasks (kata), inventing the right ones on the go</li>
-    <li>writing generic component proofs of concepts</li>
-    <li>writing test tasks given by employers</li>
-    <li>pair programming</li>
-    <li>walking through tutorials together</li>
-    <li>support in completing interactive learning sites</li>
-    <li>help with writing own projects</li>
-    <li>building site layouts from design, with hints and explanations</li>
-    <li>code review for projects done by students</li>
-    <li>help with work tasks</li>
-    <li>mock interviews (imitation of a real one)</li>
-    <li>assistance with qualification tests</li>
-    <li>going through video courses together</li>
-    <li>reading prewritten code, explaining everything I can</li>
-    <li>application design (architecture, data, interfaces)</li>
-    <li>writing casual games (snake, tetris, sapper, etc.)</li>
-    <li>group flipped class</li>
-    <li>live coding (I code in front of students with comments along the way)</li>
+    <li>Introduction, study tips, material recommendations</li>
+    <li>Answers to the questions the student came with</li>
+    <li>Explanation of topics - singlular or sequential</li>
+    <li>Solving algorithmic tasks (kata), inventing the right ones on the go</li>
+    <li>Writing generic component proofs of concepts</li>
+    <li>Writing test tasks given by employers</li>
+    <li>Pair Programming</li>
+    <li>Walking through tutorials together</li>
+    <li>Support in completing interactive learning websites</li>
+    <li>Help with writing your own projects</li>
+    <li>Building site layouts from design, with hints and detailed explanations</li>
+    <li>Code review for projects done by students</li>
+    <li>Help with workflow tasks</li>
+    <li>Mock job interviews (imitation of a real one)</li>
+    <li>Assistance with job interview pre-qualification tests</li>
+    <li>Going through video courses together</li>
+    <li>Reading prewritten code (libraries), explaining everything I can</li>
+    <li>Application design (architecture, data, interfaces)</li>
+    <li>Writing casual games (snake, tetris, sapper, etc.)</li>
+    <li>Group flipped questions directed at me for class, to strengthen self directed learning</li>
+    <li>Live coding (I code in front of students with comments along the way)</li>
   </ul>
 
 </details>
