@@ -26,6 +26,7 @@
     <li>написание казуальных игрушек (змейки, тетрисы, сапёры и т.п.)</li>
     <li>групповой урок в формате перевёрнутого класса</li>
     <li>лайв-кодинг (пишу что-то при учениках с комментариями по ходу)</li>
+    <li>передача навыков продвинутого пользования основными инструментами разработки</li>
   </ul>
 
 </details>
@@ -54,6 +55,7 @@
     <li>writing casual games (snake, tetris, sapper, etc.)</li>
     <li>group flipped class</li>
     <li>live coding (I code in front of students with comments along the way)</li>
+    <li>transfer of skills of advanced use of the prime development apps and tools</li>
   </ul>
 
 </details>
