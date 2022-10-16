@@ -27,6 +27,7 @@
     <li>групповой урок в формате перевёрнутого класса</li>
     <li>лайв-кодинг (пишу что-то при учениках с комментариями по ходу)</li>
     <li>передача навыков продвинутого пользования основными инструментами разработки</li>
+    <li>карьерное консультирование, мотивация, коучинг, психологическая поддержка</li>
   </ul>
 
 </details>
@@ -56,6 +57,7 @@
     <li>group flipped class</li>
     <li>live coding (I code in front of students with comments along the way)</li>
     <li>transfer of skills of advanced use of the prime development apps and tools</li>
+    <li>career counseling, motivation, coaching, psychological support</li>
   </ul>
 
 </details>
