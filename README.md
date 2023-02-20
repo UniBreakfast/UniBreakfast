@@ -38,7 +38,7 @@
     Формати, моїх занять з учнями у веб-конференціях:</h3> <sub>...показати...</sub> </summary>
   
   <ul>
-    <li>Початок, поради у навчанні, рекомендовані матеріали</li>
+    <li>початок, поради у навчанні, рекомендовані матеріали</li>
     <li>відповіді на питання, з якими учень прийшов</li>
     <li>пояснення тем - окремих або по порядку</li>
     <li>вирішення завдань, вигадування потрібних власних на ходу</li>
@@ -77,18 +77,18 @@
     <li>writing test tasks given by employers</li>
     <li>pair programming</li>
     <li>walking through tutorials together</li>
-    <li>support in completing interactive learning sites</li>
-    <li>help with writing own projects</li>
-    <li>building site layouts from design, with hints and explanations</li>
+    <li>support in completing interactive learning websites</li>
+    <li>help with writing your own projects</li>
+    <li>building site layouts from design, with hints and detailed explanations</li>
     <li>code review for projects done by students</li>
-    <li>help with work tasks</li>
+    <li>help with work workflow tasks</li>
     <li>mock interviews (imitation of a real one)</li>
-    <li>assistance with qualification tests</li>
+    <li>assistance with job interview pre-qualification tests</li>
     <li>going through video courses together</li>
-    <li>reading prewritten code, explaining everything I can</li>
+    <li>reading prewritten code (projects, libraries, modules etc.), explaining everything I can</li>
     <li>application design (architecture, data, interfaces)</li>
     <li>writing casual games (snake, tetris, sapper, etc.)</li>
-    <li>group flipped class</li>
+    <li>group flipped questions directed at me for class, to strengthen self directed learning<</li>
     <li>live coding (I code in front of students with comments along the way)</li>
     <li>transfer of skills of advanced use of the prime development apps and tools</li>
     <li>career counseling, motivation, coaching, psychological support</li>
