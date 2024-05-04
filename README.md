@@ -97,3 +97,6 @@
 </details>
 
 [![Code::Stats](https://user-images.githubusercontent.com/19654456/220208546-03cad085-8930-41b0-b464-a9364df8c0d5.png)](https://codestats.net/users/UniBreakfast)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=unibreakfast&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true" />
+
