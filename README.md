@@ -1,3 +1,4 @@
+![views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funibreakfast%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)
 ## [>>>  ALL MY REPOSITORIES  <<<](https://unibreakfast.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="hey there" width="30px"/>
 ### [--------------->> my gists <<---------------](https://gist.github.com/UniBreakfast/)
 
