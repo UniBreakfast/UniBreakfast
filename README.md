@@ -1,8 +1,11 @@
 ![views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funibreakfast%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)
+
 ## [>>>  ALL MY REPOSITORIES  <<<](https://unibreakfast.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="hey there" width="30px"/>
+
 ### [--------------->> my gists <<---------------](https://gist.github.com/UniBreakfast/)
 
-<br>
+--- 
+
 <details>
   <summary> <h3><img src="https://user-images.githubusercontent.com/19654456/196938234-1c57e40d-60c7-4edb-b955-6a9b4d7a8ec5.png">
     Форматы, в которых я занимаюсь с учениками в веб-конференциях:</h3> <sub>...показать...</sub> </summary>
@@ -97,11 +100,13 @@
 
 </details>
 
-#### Я постепенно наполняю своё импровизированное [ПОТФОЛИО](https://unibreakfast.github.io/free-code-camp-responsive-web-design-20-personal-portfolio/).
+---
 
-#### My improvised [PORTFOLIO](https://unibreakfast.github.io/free-code-camp-responsive-web-design-20-personal-portfolio/) is here. It is UNFINISHED.
+### Я постепенно наполняю своё импровизированное 🚧 [ПОТФОЛИО](https://unibreakfast.github.io/free-code-camp-responsive-web-design-20-personal-portfolio/) 🗂️😎 здесь.
 
-[![Code::Stats](https://user-images.githubusercontent.com/19654456/220208546-03cad085-8930-41b0-b464-a9364df8c0d5.png)](https://codestats.net/users/UniBreakfast)
+### My improvised 🏗️ [PORTFOLIO](https://unibreakfast.github.io/free-code-camp-responsive-web-design-20-personal-portfolio/) 📒🥸 is here. It is UNFINISHED (like 1/4 is done).
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=unibreakfast&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true" />
+---
+
+[![Code::Stats](https://user-images.githubusercontent.com/19654456/220208546-03cad085-8930-41b0-b464-a9364df8c0d5.png)](https://codestats.net/users/UniBreakfast) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unibreakfast&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true" />
 
