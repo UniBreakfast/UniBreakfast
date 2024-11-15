@@ -7,8 +7,8 @@
 --- 
 
 <details>
-  <summary> <h3><img src="https://user-images.githubusercontent.com/19654456/196938234-1c57e40d-60c7-4edb-b955-6a9b4d7a8ec5.png">
-    Форматы, в которых я занимаюсь с учениками в веб-конференциях:</h3> <sub>...показать...</sub> </summary>
+  <summary> &nbsp; <h3><img src="https://user-images.githubusercontent.com/19654456/196938234-1c57e40d-60c7-4edb-b955-6a9b4d7a8ec5.png">
+    &nbsp; Форматы, в которых я занимаюсь с учениками в веб-конференциях:</h3> &nbsp; <sub>...показать...</sub> </summary>
   
   <ul>
     <li>введение, советы по изучению, рекомендации материалов</li>
@@ -38,8 +38,8 @@
 
 </details>
 <details>
-  <summary> <h3><img src="https://user-images.githubusercontent.com/19654456/196937099-9bf34608-0227-4efc-bac4-4c1cba3566e1.png">
-    Формати, моїх занять з учнями у веб-конференціях:</h3> <sub>...показати...</sub> </summary>
+  <summary> &nbsp; <h3><img src="https://user-images.githubusercontent.com/19654456/196937099-9bf34608-0227-4efc-bac4-4c1cba3566e1.png">
+    &nbsp; Формати, моїх занять з учнями у веб-конференціях:</h3> &nbsp; <sub>...показати...</sub> </summary>
   
   <ul>
     <li>початок, поради у навчанні, рекомендовані матеріали</li>
@@ -69,8 +69,8 @@
 
 </details>
 <details>
-  <summary><h3><img src="https://user-images.githubusercontent.com/19654456/196941031-0a5c3600-c9b5-4d02-b9e1-fb7d75bc0ef2.png">
-    Formats in which I work with students during remote desktop call lessons:</h3> <sub>...show...</sub> </summary>
+  <summary> &nbsp; <h3><img src="https://user-images.githubusercontent.com/19654456/196941031-0a5c3600-c9b5-4d02-b9e1-fb7d75bc0ef2.png">
+    &nbsp; Formats in which I work with students during remote desktop call lessons:</h3> &nbsp; <sub>...show...</sub> </summary>
   
   <ul>
     <li>introduction, study tips, material recommendations</li>
