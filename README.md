@@ -38,7 +38,7 @@
 <details>
   <summary> &nbsp; &nbsp; &nbsp; <h3><img src="https://user-images.githubusercontent.com/19654456/196937099-9bf34608-0227-4efc-bac4-4c1cba3566e1.png">
     &nbsp; Формати, моїх занять з учнями у веб-конференціях:</h3> &nbsp; <sub>...показати...</sub> </summary>
-  
+   
   <ul>
     <li>початок, поради у навчанні, рекомендовані матеріали</li>
     <li>відповіді на питання, з якими учень прийшов</li>
