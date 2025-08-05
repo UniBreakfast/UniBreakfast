@@ -100,9 +100,9 @@
 
 ---
 
-### Я постепенно наполняю своё импровизированное 🚧 [ПОТФОЛИО](https://unibreakfast.github.io/free-code-camp-responsive-web-design-20-portfolio/) 🗂️😎.
+### Моё заброшенное на первой четверти 🚧 [ПОТФОЛИО](https://unibreakfast.github.io/free-code-camp-responsive-web-design-20-portfolio/) 🗂️😎.
 
-### My improvised 🏗️ [PORTFOLIO](https://unibreakfast.github.io/free-code-camp-responsive-web-design-20-portfolio/) 📒🥸 is here. It is INCOMPLETE.
+### My discontinued long ago 🏗️ [PORTFOLIO](https://unibreakfast.github.io/free-code-camp-responsive-web-design-20-portfolio/) 📒🥸 is here. It is INCOMPLETE.
 
 ---
 
